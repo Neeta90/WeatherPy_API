@@ -7,3 +7,5 @@ Data Analysis:
 4. we can not conclude  cloudiness on the basis of scatter plot because there is no clear trend.
 5. Around the equator wind rises higher into the atmosphere and migrates toward the poles.
 
+Trends:
+
