@@ -10,3 +10,5 @@ Data Analysis:
 Trends:
 1. There is a correlation between latitude and temperature. In the data set analyzed in June, the highest temperatures are found between 20 and 40 degrees latitude, the same latitude range where Sahara, Guadalajara and Gobi deserts are located. The Northern Hemisphere has more data points, which is expected since the northern hemisphere also contains greater land-mass than the Southern hemisphere.
 
+![LatVsTemp](https://user-images.githubusercontent.com/50187921/69096506-300ff100-0a1a-11ea-982a-726d05313f58.png)
+
