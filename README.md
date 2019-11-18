@@ -8,4 +8,5 @@ Data Analysis:
 5. Around the equator wind rises higher into the atmosphere and migrates toward the poles.
 
 Trends:
+1. There is a correlation between latitude and temperature. In the data set analyzed in June, the highest temperatures are found between 20 and 40 degrees latitude, the same latitude range where Sahara, Guadalajara and Gobi deserts are located. The Northern Hemisphere has more data points, which is expected since the northern hemisphere also contains greater land-mass than the Southern hemisphere.
 
