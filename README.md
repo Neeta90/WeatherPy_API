@@ -17,3 +17,7 @@ Trends:
 ![LatVscloudy](https://user-images.githubusercontent.com/50187921/69096685-841ad580-0a1a-11ea-9441-24eb33736edf.png)
 
 
+![LatVsWindSpeed](https://user-images.githubusercontent.com/50187921/69096770-ae6c9300-0a1a-11ea-90d9-e6e49c5da6de.png)
+
+
+
