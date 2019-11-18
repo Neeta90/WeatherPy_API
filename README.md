@@ -12,10 +12,11 @@ Trends:
 
 ![LatVsTemp](https://user-images.githubusercontent.com/50187921/69096506-300ff100-0a1a-11ea-982a-726d05313f58.png)
 
-2. There appears to be no correlation between latitude and cloudiness, and only weak correlation between latitude and wind speed. There are higher wind speeds observed in the southern hemisphere.
+2. There appears to be no correlation between latitude and cloudiness.
 
 ![LatVscloudy](https://user-images.githubusercontent.com/50187921/69096685-841ad580-0a1a-11ea-9441-24eb33736edf.png)
 
+3.only weak correlation between latitude and wind speed. There are higher wind speeds observed in the southern hemisphere.
 
 ![LatVsWindSpeed](https://user-images.githubusercontent.com/50187921/69096770-ae6c9300-0a1a-11ea-90d9-e6e49c5da6de.png)
 
