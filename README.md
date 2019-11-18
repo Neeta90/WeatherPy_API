@@ -20,5 +20,8 @@ Trends:
 
 ![LatVsWindSpeed](https://user-images.githubusercontent.com/50187921/69096770-ae6c9300-0a1a-11ea-90d9-e6e49c5da6de.png)
 
+4. The correlation between latitude and humidity is also not pronounced. The humidity is higher in the northern hemisphere, which is to be expected as it is Summer in the northern hemisphere.
+
+
 
 
